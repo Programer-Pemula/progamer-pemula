@@ -21,6 +21,8 @@ h1 {
     list-style: none;
     justify-content: space-between;
     display: flex;
+    margin-right: 10px;
+    
 }
 
 ul#link li a:hover {
